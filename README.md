@@ -64,17 +64,6 @@ Software engineer specialized in cross-platform mobile development using Flutter
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=emrhnzngn&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </div>
 
-🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/emrhnzngn/flexible_barcode_scanner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emrhnzngn&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/emrhnzngn/youtube_captioned_player">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=emrhnzngn&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2" />
-  </a>
-</div>
-
 💡 Expertise
 
 - Mobile App Development
