@@ -67,10 +67,10 @@ Software engineer specialized in cross-platform mobile development using Flutter
 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/emrhnzngn/project1">
+  <a href="[https://github.com/emrhnzngn/project1](https://github.com/emrhnzngn/flexible_barcode_scanner)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=emrhnzngn&repo=project1&theme=tokyonight&hide_border=true" alt="Project 1" />
   </a>
-  <a href="https://github.com/emrhnzngn/project2">
+  <a href="[https://github.com/emrhnzngn/project2](https://github.com/emrhnzngn/youtube_captioned_player)">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=emrhnzngn&repo=project2&theme=tokyonight&hide_border=true" alt="Project 2" />
   </a>
 </div>
@@ -91,7 +91,7 @@ Software engineer specialized in cross-platform mobile development using Flutter
 📫 Let's Connect
 
 <div align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:emrhnzngn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://instagram.com/emrhnzngn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://medium.com/@yourusername"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://medium.com/@emrhnzngn"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </div>
