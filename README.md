@@ -73,10 +73,6 @@ Software engineer specialized in cross-platform mobile development using Flutter
 - Cloud Services
 - Database Design
 
-📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=emrhnzngn&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
-
 📫 Let's Connect
 
 <div align="center">
