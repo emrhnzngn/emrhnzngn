@@ -1,6 +1,6 @@
 <!--<h1 align="center">Hi 👋, I'm Emirhan Zengin</h1>
 <h3 align="center">Flutter Developer</h3>
-<iframe src="https://github.com/sponsors/emrhnzngn/button" title="Sponsor emrhnzngn" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrhnzngn&label=Profile%20views&color=0e75b6&style=flat" alt="emrhnzngn" /> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -80,3 +80,4 @@ Software engineer specialized in cross-platform mobile development using Flutter
   <a href="https://instagram.com/emrhnzngn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://medium.com/@emrhnzngn"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </div>
+<div><iframe src="https://github.com/sponsors/emrhnzngn/button" title="Sponsor emrhnzngn" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe></div>
