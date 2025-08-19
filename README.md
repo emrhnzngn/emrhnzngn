@@ -80,4 +80,3 @@ Software engineer specialized in cross-platform mobile development using Flutter
   <a href="https://instagram.com/emrhnzngn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://medium.com/@emrhnzngn"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </div>
-[![Sponsor Me](https://img.shields.io/badge/Sponsor-💖-pink?style=for-the-badge)](https://github.com/sponsors/emrhnzngn)
